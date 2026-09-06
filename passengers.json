@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Sushan Shrestha",
+        "type": "regular",
+        "discount": 0.0,
+        "balance": 980.0,
+        "passenger_login_id": "9869888845",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    },
+    "2": {
+        "name": "Pratik Dhakal",
+        "type": "regular",
+        "discount": 0.0,
+        "balance": 960.0,
+        "passenger_login_id": "9765544551",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    },
+    "3": {
+        "name": "Safal Bhandari",
+        "type": "regular",
+        "discount": 0.0,
+        "balance": 960.0,
+        "passenger_login_id": "9845543853",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    }
+}

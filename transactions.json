@@ -1,0 +1,82 @@
+[
+    {
+        "id": "5",
+        "name": "Sushan",
+        "distance": 4.0,
+        "fare": 20.0,
+        "payment_method": "Wallet",
+        "driver": "Driver 3",
+        "bus_id": "Bus 3",
+        "timestamp": "2026-09-06T16:04:30"
+    },
+    {
+        "id": "5",
+        "name": "Sushan",
+        "distance": 0.0,
+        "fare": 20.0,
+        "payment_method": "Wallet",
+        "driver": "Driver 3",
+        "bus_id": "Bus 3",
+        "timestamp": "2026-09-06T16:06:31"
+    },
+    {
+        "id": "3",
+        "name": "Pratik",
+        "distance": 0.0,
+        "fare": 20.0,
+        "payment_method": "Wallet",
+        "driver": "Driver 3",
+        "bus_id": "Bus 3",
+        "timestamp": "2026-09-06T16:06:51"
+    },
+    {
+        "id": "2",
+        "name": "Pratik Dhakal",
+        "distance": 0.0,
+        "fare": 20.0,
+        "payment_method": "Wallet",
+        "driver": "Driver 3",
+        "bus_id": "Bus 3",
+        "timestamp": "2026-09-06T16:16:08"
+    },
+    {
+        "id": "3",
+        "name": "Safal Bhandari",
+        "distance": 0.0,
+        "fare": 20.0,
+        "payment_method": "Wallet",
+        "driver": "Driver 3",
+        "bus_id": "Bus 3",
+        "timestamp": "2026-09-06T16:16:52"
+    },
+    {
+        "id": "1",
+        "name": "Sushan Shrestha",
+        "distance": 0.0,
+        "fare": 20.0,
+        "payment_method": "Wallet",
+        "driver": "Driver 3",
+        "bus_id": "Bus 3",
+        "timestamp": "2026-09-06T16:17:03"
+    },
+    {
+        "id": "2",
+        "name": "Pratik Dhakal",
+        "distance": 0.0,
+        "fare": 20.0,
+        "payment_method": "Wallet",
+        "driver": "Driver 3",
+        "bus_id": "Bus 3",
+        "timestamp": "2026-09-06T16:17:18"
+    },
+    {
+        "id": "3",
+        "name": "Safal Bhandari",
+        "distance": 0.0,
+        "fare": 20.0,
+        "payment_method": "Wallet",
+        "driver": "Driver 3",
+        "bus_id": "Bus 3",
+        "timestamp": "2026-09-06T16:24:36"
+    }
+]
